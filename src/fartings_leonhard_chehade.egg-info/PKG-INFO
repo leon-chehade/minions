@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: fartings-leonhard-chehade
+Version: 0.0.2
+Summary: Let the minions fart
+Home-page: https://github.com/leonhard-chehade/fartings
+Author: Leonhard Chehade
+Author-email: leon.chehade@outlook.de
+Project-URL: Bug Tracker, https://github.com/leonhard-chehade/fartings/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Fartings
+
+In order to hear the minions fart start the application and click the butts of the minions. 

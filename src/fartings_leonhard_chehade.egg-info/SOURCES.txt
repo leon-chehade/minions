@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/fartings/__init__.py
+src/fartings/make_fartings.py
+src/fartings_leonhard_chehade.egg-info/PKG-INFO
+src/fartings_leonhard_chehade.egg-info/SOURCES.txt
+src/fartings_leonhard_chehade.egg-info/dependency_links.txt
+src/fartings_leonhard_chehade.egg-info/requires.txt
+src/fartings_leonhard_chehade.egg-info/top_level.txt
