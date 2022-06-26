@@ -1,2 +1,2 @@
 # minions
-Let the minions don something
+Let the minions do something
